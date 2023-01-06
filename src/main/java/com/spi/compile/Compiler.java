@@ -1,5 +1,8 @@
 package com.spi.compile;
 
+import com.spi.common.SPI;
+
+@SPI("javassist")
 public interface Compiler {
 
 
