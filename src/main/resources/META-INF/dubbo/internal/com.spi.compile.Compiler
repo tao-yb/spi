@@ -1,0 +1,2 @@
+adaptive=com.spi.compile.impl.AdaptiveCompiler
+javassist=com.spi.compile.impl.JavassistCompiler
