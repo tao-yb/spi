@@ -1,0 +1,2 @@
+adaptive=com.spi.common.AdaptiveExtensionFactory
+spi=com.spi.common.SpiExtensionFactory
